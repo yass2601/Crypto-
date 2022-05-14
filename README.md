@@ -25,5 +25,5 @@
 - Shop: https://nftservices.sellix.io
 - Group: https://t.me/cryptodrainers
 
-##### Please ⭐ the repo to support our project
+##### Please ⭐ the repo to support this project
 ![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
