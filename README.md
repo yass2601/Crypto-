@@ -26,4 +26,4 @@
 - Group: https://t.me/cryptodrainers
 
 ## Please leave a ⭐ to support my project
-![star](https://cdn.discordapp.com/attachments/975036883958636557/975056552425820251/unknown.png)
+![star](https://cdn.discordapp.com/attachments/975036883958636557/975056758659743844/unknown.png)
