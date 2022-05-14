@@ -19,8 +19,11 @@
 - [x] Anti F12 Inspect
 
 
-## `🌊 Socials :`
+## `🌊 Socials`
 
 - Telegram: https://t.me/zentoh
 - Shop: https://nftservices.sellix.io
 - Group: https://t.me/cryptodrainers
+
+## Please leave a ⭐ to support my project
+![star](https://cdn.discordapp.com/attachments/975036883958636557/975056552425820251/unknown.png)
