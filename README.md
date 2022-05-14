@@ -1,5 +1,5 @@
 ---
-## ⚠️ This project is only a **BETA** for now, report problems in Telegram
+## 💡 This project is only a `BETA` for now, report problems in Telegram
 ---
 ### DM me here: [@Zentoh](https://t.me/zentoh) (new telegram)
 
