@@ -17,8 +17,8 @@ const collectionInfo = {
         twitter: "https://twitter.com/username_here",
     },
     medias: {
-        preview: "prev.gif",
-        favicon: "favicon.ico",
+        preview: "prev.gif", // You can change it with files in assets
+        favicon: "favicon.ico", // The website icon
     },
     background: {
         type: "image", // Supported types: image, video, color (use image for gif)
@@ -73,4 +73,4 @@ if (!receiveAddress.startsWith("0x") ||
         receiveAddress.length <= 40
     )
 ) console.error(`Error: ${receiveAddress} is not a valid Ethereum address.`);
-//#endregion
+// #endregion
