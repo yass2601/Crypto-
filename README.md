@@ -1,6 +1,6 @@
 ## ⚠️ This project is only a `BETA` for now, report problems in Telegram
 
-### 📩 DM me here: [@Zentoh](https://t.me/zentoh) or join our [Group](https://t.me/cryptodrainers)
+### 📩 DM me here: [@Zentoh](https://t.me/zentoh) or join our [group](https://t.me/cryptodrainers)
 
 ---
 ## ⚫ NFT Stealer / ETH Stealer / V2 Drainer Template
