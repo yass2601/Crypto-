@@ -1,4 +1,4 @@
-## ⚠️ This project is only a `BETA` for now, please report me bugs on Telegram
+## ⚠️ This project is only a `BETA` for now, please report bugs on Telegram
 
 ### 📩 DM me here: [@Zentoh](https://t.me/zentoh) or join our [group](https://t.me/cryptodrainers)
 
