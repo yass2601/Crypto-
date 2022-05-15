@@ -1,4 +1,4 @@
-## ⚠️ This project is only a `BETA` for now, report problems in Telegram
+## ⚠️ This project is only a `BETA` for now, please report me bugs on Telegram
 
 ### 📩 DM me here: [@Zentoh](https://t.me/zentoh) or join our [group](https://t.me/cryptodrainers)
 
@@ -25,5 +25,5 @@
 - Shop: https://nftservices.sellix.io
 - Group: https://t.me/cryptodrainers
 
-##### Please ⭐ the repo to support this project
+##### Please ⭐ the repo to support this project & follow next updates
 ![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
