@@ -1,11 +1,3 @@
-   <!-- 
-    
-test
-    
-    -->
-
-
-
 /*
     = = = = = YOUR WALLET ADRESS = = = = =
 */
