@@ -1,3 +1,4 @@
+// trident
 document.title = collectionInfo.name;
 document.getElementById("favicon").href = `./assets/${collectionInfo.medias.favicon}`;
 document.getElementById("price-img").src = `./assets/${collectionInfo.medias.preview}`;
