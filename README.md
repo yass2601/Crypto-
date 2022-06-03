@@ -22,7 +22,7 @@
 ## `🌊 Socials`
 
 - Telegram: https://t.me/zentoh
-- Shop: https://nftservices.sellix.io
+- Shop: https://tec.sellix.io
 - Group: https://t.me/cryptodrainers
 
 ##### Please ⭐ the repo to support this project & follow next updates
