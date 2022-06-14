@@ -5,7 +5,9 @@
 ---
 ## 💧 NFT Stealer / ETH Stealer / V2 Drainer Template
 
-![preview](https://cdn.discordapp.com/attachments/914551334680797195/986413868505002004/drainer.mp4)
+### Preview of the Drainer
+[![Test - Click to play](https://cdn.discordapp.com/attachments/914551334680797195/986414807072780358/unknown.png)](https://cdn.discordapp.com/attachments/914551334680797195/986413868505002004/drainer.mp4)
+Click to play
 ---
 
 ## `🛡️ Features`
