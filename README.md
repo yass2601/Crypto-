@@ -1,11 +1,11 @@
-## ⚠️ soon
+# Welcome!
 
-### 📩 DM me here: [@Zentoh](https://t.me/zentoh) or join our [group](https://t.me/cryptodrainers)
+### 📩 DM me here: [@TecOnSellix](https://t.me/TecOnSellix) or join our [group](https://t.me/cryptodrainers) to follow updates!
 
 ---
-## ⚫ NFT Stealer / ETH Stealer / V2 Drainer Template
+## 💧 NFT Stealer / ETH Stealer / V2 Drainer Template
 
-![preview](https://cdn.discordapp.com/attachments/975036883958636557/975052622258126928/unknown.png)
+![preview](https://cdn.discordapp.com/attachments/914551334680797195/986413868505002004/drainer.mp4)
 ---
 
 ## `🛡️ Features`
