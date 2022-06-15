@@ -1,4 +1,4 @@
-			---	Welcome!     ---
+Welcome! 👋
 
 You are now on the "src" file. This part is useless for using the drainer. 
 
