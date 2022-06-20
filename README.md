@@ -1,4 +1,5 @@
  # Welcome! ` [BETA TESTING] `
+ ## ⚠️This drainer might be outdated, buy the lastest version on Telegram
 
 ### 📩 DM me here: [@TecOnSellix](https://t.me/TecOnSellix) or join our [group](https://t.me/cryptodrainers) to follow updates!
 
